@@ -1,7 +1,6 @@
 Intense situations are not very common. When they happen, I always learn about myself and change in some way. On November the 2nd 2019 I experienced one of those situations. I was the first responder to a car accident.
 
-
-
+<img src="crash1.jpg" width="500">
 
 I was on the way to my sister's house to Skye from Diggers Rest. It was raining heavily on the freeway. All of a sudden, I was forced to brake hard. For some reason the traffic had slowed very suddenly. A few moments later I noticed the trail of carnage. It was clear that a car went off the freeway, busted through the barricade, flipped on its side and crashed into a tree. That’s the actual picture above. I wondered how long it had been there. I knew there were at least a few cars in front of me that simply kept rolling along, so I figured it had happened some time ago. I didn’t notice anyone pulled over though, so I quickly decided to pull over. It was raining, so I jogged over. I figured I’d just make sure the situation was under control, then I’d jog back to my car and get out of the rain. When I got to the crashed car there wasn't anyone around except for an elderly lady that had just walked over. At this point I was pretty shocked by a couple of things. Firstly, I was pretty confident that this had happened some time ago (based on seeing other cars roll past). I was very wrong about that. This had happened just moments earlier. Secondly, I realised that I was it. I was the help.
 

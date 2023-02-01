@@ -1,6 +1,12 @@
+# Crashed
+
+[Home](../../index.md)
+
 Intense situations are not very common. When they happen, I always learn about myself and change in some way. On November the 2nd 2019 I experienced one of those situations. I was the first responder to a car accident.
 
+<p align="center">
 <img src="crash1.jpg" width="500">
+</p>
 
 I was on the way to my sister's house to Skye from Diggers Rest. It was raining heavily on the freeway. All of a sudden, I was forced to brake hard. For some reason the traffic had slowed very suddenly. A few moments later I noticed the trail of carnage. It was clear that a car went off the freeway, busted through the barricade, flipped on its side and crashed into a tree. That’s the actual picture above. I wondered how long it had been there. I knew there were at least a few cars in front of me that simply kept rolling along, so I figured it had happened some time ago. I didn’t notice anyone pulled over though, so I quickly decided to pull over. It was raining, so I jogged over. I figured I’d just make sure the situation was under control, then I’d jog back to my car and get out of the rain. When I got to the crashed car there wasn't anyone around except for an elderly lady that had just walked over. At this point I was pretty shocked by a couple of things. Firstly, I was pretty confident that this had happened some time ago (based on seeing other cars roll past). I was very wrong about that. This had happened just moments earlier. Secondly, I realised that I was it. I was the help.
 
@@ -11,7 +17,9 @@ The semi-unconscious man became a little more conscious. He was groaning. He tur
 Around this time the ringing in the car’s speakers turned into a voice. The car had somehow called triple zero by itself. I guess newer cars know when they have been in a crash and automatically call for help. There was someone from the emergency line talking to me through the car's speakers. I tried to tell her the situation, but quickly realised that I could hear her, but she could not hear me. I picked up the mobile phone in the car. It was unlocked and showed a contact called ‘Dad’. I tried to speak into the mobile phone but the emergency line still could not hear me. I put the phone in my pocket. The car would continually call triple zero, a person would pick up and that cycle continued. The people from the emergency line trying to talk to me through the car's speakers added a significant distraction to my attention. It made the whole situation feel more intense.
 
 
-
+<p align="center">
+<img src="crash2.png" width="500">
+</p>
 
 
 About 3-5 more people had turned up around the car, none of them were capable of entering the car to help me, but I was really glad that they were there. I had to open the passenger side door against gravity any time I needed to talk to people outside the car. One of the guys tied a rope from the door to the front of the car. This rope held the passenger side door open and made it easier for me to communicate with the people outside the car. It also just made the car feel less claustrophobic. I was a little worried about the fuel smell, so having that door opened gave me a little peace of mind because I knew I could bail really quickly if I had to. 
@@ -27,3 +35,5 @@ I gave Stuart's family my phone number and gave the medics Stuart’s phone. I t
 Later Stuart's sister messaged me to let me know that he was okay. Later in the evening Stuart himself called me. He could not remember me or the crash. He just called me to say thanks, because his sister told him about me. I was totally amazed that he had no recollection of me.
 
 I reflected on the situation and myself. I figured that Stuart might have gotten into that accident because he was using his phone while driving; his phone was unlocked and a contact was already selected when I picked it up. I felt like the universe had sent me a message. I told myself: no sleepy driving, no touching my phone, only focus on driving from now on. I analysed my feelings and actions. The powerful empathetic, mother-like feelings I had kind of surprised me. I was even more surprised by how quickly I switched from pure empathy, to becoming super calculated and pragmatic. I’m glad my feelings take a back seat when the shit hits the fan and I need to think and act. I’m also glad that I can feel connected to people, and show it.
+
+[Home](../../index.md)

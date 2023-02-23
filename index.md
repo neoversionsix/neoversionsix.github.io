@@ -1,6 +1,6 @@
 # Jason's Blog
 
-<p align="right">
+<p align="left">
 <img src="icon.jpg" width="100">
 </p>
 

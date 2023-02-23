@@ -2,6 +2,10 @@ I had a conversation with my younger sister recently that kind of startled me. W
 
 "Churro is like my child"
 
+<p align="center">
+<img src="whippets.png" width="500">
+</p>
+
 My sister loves her dog as much as her long-time partner. She told me, "I love them equally". This is not to diminish her love and care for her partner. She loves him very much and (as far as I can tell) they're in a healthy, loving, long term relationship. The equal standing is because she feels the same level of love, care and value for her dog, as she does for her deep human relationship. As she put it, "Churro is like my child". When she said this, I had to dig deeper; "Do you mean you love him as much, as you would, if you had your own (human) child". She didn't even hesitate and responded, "yes". It was around this point in the conversation that I realised the software running in my mind, and that of my sisters, was very different. All of a sudden, I was not looking at her like a familiar sibling, but more like some alien creature I could never have imagined. I held back the urge to ask her if she was high. I quickly realised that I had no readily available, objective reason to label her thoughts and feelings, as absurd.
 
 "One of them has to die"

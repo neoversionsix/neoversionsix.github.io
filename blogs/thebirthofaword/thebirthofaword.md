@@ -7,6 +7,10 @@ It was pretty cool to witness the slow birth of a new word. Personally, I felt l
 
 The word 'catfish' was born out of the 2010 documentary of the same name. I'll never forget watching that documentary. I was living in a share house with some other guys in their early 20s. It blew their minds too. By the end we were yelling WHAAAT!? If you haven't seen it and want to experience it untainted, I'd suggest stopping at this point and coming back to this after watching it, but if you cbf doing that, read on.
 
+<p align="left">
+<img src="vince.jpg" width="100">
+</p>
+
 The original definition of the term 'catfish' was actually created by Angela's husband - Vince. Vince doesn't freak out about his wife's elaborate world of lies and her weird online relationship with Nev. Nope, instead he makes this amazingly interesting analysis of his wife, and of people in general. Vince pays attention to the silver lining...
 
 Vince:

@@ -6,10 +6,14 @@ I generally took teaching seriously but sometimes I kind of played around and fu
 
 When I was a Maths/Physics teacher I became good friends with the woodwork teacher. Ben had (and still has) a wicked sense of humor. He was a very mischievous person. He could be a professional, but I could tell he didn't like putting on a professional front. I think we were similar like that, but I was a little more reserved. We both disliked rules that got in our way. That underlying angst of annoying rules is what probably got us into some deep shit one day.
 
+<p align="center">
+<img src="masterkey.jpg" width="500">
+</p>
+
 Schools don't trust teachers. Okay, they're trusted slightly more than the students, but not by much. Teachers were assigned keys to specific areas of the school, only opening the areas they used on a regular basis. If we wanted access to a different room (which was common), we had to go to the business manager and sign to borrow the master key. This was really annoying, especially when our days were super compressed and we were struggling for time. We weren't going to steal shit from the school if we had access to everything! Ben and I felt like we should have master keys and be done with it.
 
 <p align="center">
-<img src="masterkey.jpg" width="500">
+<img src="putty.png" width="500">
 </p>
 
 One day Ben saw an opportunity to dodge that whole process, and he took it. The master key was left unguarded during some building works on the school. It was just laying around in the front office. Ben saw the key, and immediately decided to steal it! He told me about it, and I thought it was hilarious. It was a happy day. Ben made me promise not to tell anyone, it had to be our secret key. Only we could know about it, and use it. He put all this polymer putty on the key's head to disguise the fact that it was the master key. I thought it was all really cool. It really did make life a lot easier for Ben, and I borrowed it off him whenever.
@@ -20,7 +24,9 @@ The next thing Margaret told me shocked me. She told me that Ben had the key, an
  
 Margaret asked me a bunch of questions. I kept a calm exterior and said I didn't have a clue what Ben was talking about. I just kept denying any knowledge of the situation. I figured I'd have to talk to Ben about it later. For a split second I considered telling her Ben took it during the building works, but I decided to play ignorant until after I cooled off and talked to Ben. It was very disappointing to think that Ben would fold so easily. It made me think about how real our friendship was. I would never do that to him. I had his back 100% and I thought it was mutual. For a few minutes I actually felt quite down about not being able to find loyalty in people. Damn humans.
 
-
+<p align="center">
+<img src="onering.jpg" width="500">
+</p>
 
 After I left the office, I immediately messaged Ben and asked him to meet me. He came to my maths room. I told him what happened then I asked him the obvious questions. His responses really surprised me. What actually happened was this; he lent the key to a student to go fetch him something from a storage room. Another teacher was suspicious of the kid and took the key off him. The key had all this putty on it to disguise it. It must have looked like the kid stole the key and disguised it. The key was taken to the front office where the 'one key to rule them all' was reunited with the key bearer, Gollum... I mean Margaret. Margaret talked to Ben about it before me. Ben never threw me under the bus. He actually told Margaret that he got the key from Mr Whills, who was the previous woodwork teacher. Mr Whills was an old man that retired the year before. Whills clearly had major issues remembering things. He went a little nutty and married this really young Thai girl after he retired. The point is that it was safe for Ben to blame anything on him. The school wouldn't chase it up with him. Ben told Margaret he found it in Mr Whills' toolbox, with the putty on it already. His explanation was that he innocently happened by the key, and simply started using it. This is where things get interesting... The thing Ben and I didn't know at this point was that when Ben told Margaret he got the key off "Mr Whills" she actually heard "Mr Whittle". Our names sounded very similar, and Whills was retired so it makes sense that 'Whittle' was fresher in Margaret's mind, so that's what she heard, and that's how she thought I stole the key.
 

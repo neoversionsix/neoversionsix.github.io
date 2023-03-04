@@ -1,4 +1,5 @@
 # The Birth of a Word
+[Home](../../index.md)
 
 There are those people in life...
 

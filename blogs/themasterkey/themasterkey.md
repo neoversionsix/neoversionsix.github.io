@@ -2,11 +2,15 @@
 
 [Home](../../index.md)
 
-When I was a teacher, I generally took my job seriously. But sometimes I kind of played around and funny shit happened. The names in this story are fake for reasons that will become obvious. I can't remember some of the details so I've filled them in with stuff that's close enough.
+I generally took teaching seriously but sometimes I kind of played around and funny shit happened. The names in this story are fake for reasons that will become obvious. I can't remember some of the details so this might not be totally accurate. Anyway this is what happened.
 
 When I was a Maths/Physics teacher I became good friends with the woodwork teacher. Ben had (and still has) a wicked sense of humor. He was a very mischievous person. He could be a professional, but I could tell he didn't like putting on a professional front. I think we were similar like that, but I was a little more reserved. We both disliked rules that got in our way. That underlying angst of annoying rules is what probably got us into some deep shit one day.
 
 Schools don't trust teachers. Okay, they're trusted slightly more than the students, but not by much. Teachers were assigned keys to specific areas of the school, only opening the areas they used on a regular basis. If we wanted access to a different room (which was common), we had to go to the business manager and sign to borrow the master key. This was really annoying, especially when our days were super compressed and we were struggling for time. We weren't going to steal shit from the school if we had access to everything! Ben and I felt like we should have master keys and be done with it.
+
+<p align="center">
+<img src="masterkey.jpg" width="500">
+</p>
 
 One day Ben saw an opportunity to dodge that whole process, and he took it. The master key was left unguarded during some building works on the school. It was just laying around in the front office. Ben saw the key, and immediately decided to steal it! He told me about it, and I thought it was hilarious. It was a happy day. Ben made me promise not to tell anyone, it had to be our secret key. Only we could know about it, and use it. He put all this polymer putty on the key's head to disguise the fact that it was the master key. I thought it was all really cool. It really did make life a lot easier for Ben, and I borrowed it off him whenever.
 

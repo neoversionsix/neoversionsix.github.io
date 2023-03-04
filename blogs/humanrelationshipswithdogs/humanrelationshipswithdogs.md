@@ -1,3 +1,6 @@
+# Human Relationships with Dogs
+[Home](../../index.md)
+
 I had a conversation with my younger sister recently that kind of startled me. We were discussing the role dogs play in our lives. Both of us have dogs and we both have whippets. It's obvious that we adore our furry little companions. Where it gets interesting, is when we narrowed in on the limits, of our feelings for them.
 
 "Churro is like my child"

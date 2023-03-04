@@ -1,3 +1,6 @@
+# Two Options
+[Home](../../index.md)
+
 We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars. - Carl Sagan
 
 

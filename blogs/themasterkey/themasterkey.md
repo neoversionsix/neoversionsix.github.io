@@ -39,3 +39,5 @@ Margaret wanted to apologise in person, so with great difficulty, I composed mys
 Fortunately, the tense situation for Margaret seemed to kill off her detective drive to figure out how the master key really got into Ben's possession. She accepted the Mr Whills story. Ben got zero questioning about that key from there on in, and neither did I. We were back to the old process for using the master key though. That sucked. Our next plan was to make a copy of the key using putty as a mould, then pour super heated liquid metal into mould to forge a new key. Fortunately, we never got around to doing that.
 
 That putty stuff was really interesting. It was super tough and hard after it set. They tried for ages to get it off the key, but couldn't do it. The other Teachers didn't know why the key had all that ridiculous putty on its head. I remember another teacher making a comment about putty on the master key, I said nothing. It made me laugh inside. 
+
+[Home](../../index.md)

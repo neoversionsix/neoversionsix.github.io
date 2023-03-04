@@ -13,7 +13,7 @@ When I was a Maths/Physics teacher I became good friends with the woodwork teach
 Schools don't trust teachers. Okay, they're trusted slightly more than the students, but not by much. Teachers were assigned keys to specific areas of the school, only opening the areas they used on a regular basis. If we wanted access to a different room (which was common), we had to go to the business manager and sign to borrow the master key. This was really annoying, especially when our days were super compressed and we were struggling for time. We weren't going to steal shit from the school if we had access to everything! Ben and I felt like we should have master keys and be done with it.
 
 <p align="center">
-<img src="putty.png" width="500">
+<img src="putty.png" width="50">
 </p>
 
 One day Ben saw an opportunity to dodge that whole process, and he took it. The master key was left unguarded during some building works on the school. It was just laying around in the front office. Ben saw the key, and immediately decided to steal it! He told me about it, and I thought it was hilarious. It was a happy day. Ben made me promise not to tell anyone, it had to be our secret key. Only we could know about it, and use it. He put all this polymer putty on the key's head to disguise the fact that it was the master key. I thought it was all really cool. It really did make life a lot easier for Ben, and I borrowed it off him whenever.

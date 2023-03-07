@@ -1,7 +1,7 @@
 # Jason's Blog
 
 <p align="left">
-<img src="icon.jpg" width="100">
+<img src="icon.jpg" width="300">
 </p>
 
 [Human Relationships with Dogs](blogs/humanrelationshipswithdogs/humanrelationshipswithdogs.md)

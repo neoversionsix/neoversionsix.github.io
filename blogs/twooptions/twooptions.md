@@ -2,7 +2,7 @@
 [Home](../../index.md)
 
 <p align="left">
-<img src="sagan.jpg" width="100">
+<img src="sagan.jpg" width="400">
 </p>
 
 We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars. - Carl Sagan

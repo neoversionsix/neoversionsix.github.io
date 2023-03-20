@@ -15,3 +15,5 @@
 [Two Options](blogs/twooptions/twooptions.md)
 
 [Punkd](blogs/punkd/punkd.md)
+
+[Punkd](blogs/responsibility/responsibility.md)

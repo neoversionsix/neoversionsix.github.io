@@ -3,7 +3,7 @@
 [Home](../../index.md)
 
 <p align="center">
-<img src="responsibility.jpg" width="500">
+<img src="responsibility.jpg" width="250">
 </p>
 
 Responsibility is an interesting thing to think about. I think it’s quite complicated. When I was a high school teacher there were times I felt the weight of it bearing down on me. For example during excursions where it was my responsibility to supervise the students. I found it very difficult to keep them most of them within my field of vision, and hence reasonably supervise them. It was an almost impossible task that put pressure on me. It was a relief when I could let that responsibility go at the end of the day.

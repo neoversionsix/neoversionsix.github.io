@@ -16,4 +16,4 @@
 
 [Punkd](blogs/punkd/punkd.md)
 
-[Punkd](blogs/responsibility/responsibility.md)
+[Musings on Responsibility](blogs/responsibility/responsibility.md)

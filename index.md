@@ -1,7 +1,7 @@
 # Jason's Blog
 
 <p align="left">
-<img src="icon.jpg" width="100">
+<img src="icon.jpg" width="300">
 </p>
 
 [Human Relationships with Dogs](blogs/humanrelationshipswithdogs/humanrelationshipswithdogs.md)
@@ -15,5 +15,7 @@
 [Two Options](blogs/twooptions/twooptions.md)
 
 [Punkd](blogs/punkd/punkd.md)
+
+[Musings on Responsibility](blogs/responsibility/responsibility.md)
 
 [Confidence](blogs/confidence/confidence.md)

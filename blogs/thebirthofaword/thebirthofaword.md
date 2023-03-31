@@ -14,11 +14,11 @@ The word 'catfish' was born out of the 2010 documentary of the same name. I'll n
 The original definition of the term 'catfish' was actually created by Angela's husband - Vince. Vince doesn't freak out about his wife's elaborate world of lies and her weird online relationship with Nev. Nope, instead he makes this amazingly interesting analysis of his wife, and of people in general. Vince pays attention to the silver lining...
 
 Vince:
-They used to take cod from Alaska all the way to China. They’d keep them in vats in the ship. By the time the codfish reached China, the flesh was mush and tasteless. So this guy came up with the idea that if you put these cods in these big vats, put some catfish in with them and the catfish will keep the cod agile. And there are those people who are catfish in life. And they keep you on your toes. They keep you guessing, they keep you thinking, they keep you fresh. And I thank god for the catfish because we would be droll, boring and dull if we didn’t have somebody nipping at our fin.
+*They used to take cod from Alaska all the way to China. They’d keep them in vats in the ship. By the time the codfish reached China, the flesh was mush and tasteless. So this guy came up with the idea that if you put these cods in these big vats, put some catfish in with them and the catfish will keep the cod agile. And there are those people who are catfish in life. And they keep you on your toes. They keep you guessing, they keep you thinking, they keep you fresh. And I thank god for the catfish because we would be droll, boring and dull if we didn’t have somebody nipping at our fin.*
 
 That amazing insight is how the term "catfish/catfishing" was born. When I heard that, I saw a much broader meaning of the word than its current definition. Here is the exact point where the word was born (for me anyway):
 
-there are those people who are catfish in life. And they keep you on your toes. They keep you guessing, they keep you thinking, they keep you fresh. 
+*there are those people who are catfish in life. And they keep you on your toes. They keep you guessing, they keep you thinking, they keep you fresh.*
 
 ...So, for me, a Catfish is someone who does the above. In one way or another, we all keep the people around us on their toes. We keep each other guessing and thinking. To some degree we're all catfish. The way I see it, there is a vast variety of human catfish - you know, metaphorically speaking that is. Keeping each other guessing and thinking doesn't have to be through deception.
 

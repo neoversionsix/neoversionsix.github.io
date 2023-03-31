@@ -1,7 +1,7 @@
 # Confidence
 [Home](../../index.md)
 
-The feeling of confidence is an important to me because it affects my decision’s, my actions, and it bleeds into other feelings.
+The feeling of confidence is an important feeling to me because it affects my decision’s, my actions, and it bleeds into other feelings.
 
 <p align="center">
 <img src="surfing.jpg" width="800">

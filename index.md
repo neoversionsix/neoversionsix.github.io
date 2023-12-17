@@ -19,3 +19,5 @@
 [Musings on Responsibility](blogs/responsibility/responsibility.md)
 
 [Confidence](blogs/confidence/confidence.md)
+
+[AGI](blogs/agi/agi.md)

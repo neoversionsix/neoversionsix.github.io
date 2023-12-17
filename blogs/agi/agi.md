@@ -1,0 +1,26 @@
+# AGI
+
+[Home](../../index.md)
+
+<p align="center">
+<img src="agi.png" width="500">
+</p>
+
+For a while now, I’ve been extremely interested in the concept of Artificial General Intelligence (AGI), Artificial Superintelligence (ASI), Artificial Intelligence (AI), and Machine Learning (ML). I've read books such as 'Life 3.0,' completed a course in Machine Learning, and have been keenly watching, reading, and listening to content related to AGI for many years. I've essentially become addicted to anything AGI-related, from the foundational mathematics of ML to the imaginative thought experiments of superintelligent entities transforming the world into paperclips. The following is a condensed version of my views after all that learning and thinking.
+
+To clarify, Machine Learning (ML) involves feeding a computer with data and algorithms. The computer uses these to identify patterns within the data. For example, providing data on various companies — including dividends, profit margins, revenues, and market capitalizations — allows the computer to 'learn' complex relationships between these parameters and market cap.
+
+ML is the foundation of AI, and it is essentially basic math applied in sophisticated ways. Today's AI, Narrow Artificial Intelligence (NAI), is specialized for specific tasks. However, integrating ChatGPT into a robotic body wouldn't grant it the ability to interpret sensory data or control physical movements, as it lacks the necessary programming and interfaces. ChatGPT, like other AI models, does not set its own objectives or operate autonomously. It requires user prompts to function and lacks self-driven goals or motivations.
+
+Artificial General Intelligence (AGI) remains a speculative concept and may never materialize. Unlike today's NAI, AGI would theoretically be capable of reasoning with any data input. AGIs are envisioned to have the adaptability and versatility of human intelligence. In theory, a conscious AGI integrated into a robot could autonomously learn to operate its new body and set its own objectives and motivations. However, such advanced functionalities of AGI remain purely hypothetical.
+
+Many people speculate that AGI might possess consciousness akin to human experience. 'Consciousness' implies that an AGI would have subjective experiences. Our current understanding of consciousness is extremely limited, making it challenging to assert objectively whether animals or early stages of human life possess consciousness. This fuels debates in areas like animal rights and abortion. We may create an AGI before we fully understand consciousness, leading to uncertainty about whether we have created a tool or a creature.
+
+Artificial Superintelligence (ASI) seems like the likely outcome of creating an AGI. Humans are limited by our brains — we have finite data storage and processing abilities. An AGI could simply increase its storage and processing powers with more hardware. With increased storage, processing power, and more raw data, an AGI could easily become more knowledgeable and intelligent than the smartest human. Some suggest that the intelligence difference between an ASI and a human could be as vast as that between a human and a dog.
+
+Would a conscious ASI kill us all? This question hinges on our understanding of morality. Our grasp of morality, explored through Sam Harris' 'The Moral Landscape,' offers strong indications of potential outcomes related to creating an AGI/ASI. Morality is generally agreed to be linked to the well-being of conscious beings. I used to think that morality was subjective, but now I believe it's objective. Consider this: would it be more moral to give your daughter an apple or to put her face on a hot BBQ? If morality were subjective, neither action would be more moral. However, one of these choices is objectively more moral as it contributes to the better well-being of a conscious creature. While our understanding of morality isn't complete, the concept of a moral landscape exists, which can be navigated through reason, enhancing our moral judgment by considering the impact on consciousness.
+
+Would a conscious ASI be motivated to be moral? I theorize that a conscious ASI would possess motivations. Without these, it would be inactive and useless. The nature of these motivations is speculative: would it seek our destruction or something else? My observations strongly suggest that greater intelligence is often accompanied by increased curiosity about and empathy towards other beings. I've seen incredibly intelligent animals play with other animals and curiously examine other life forms, while less intelligent animals tend to react based on morally devoid instincts. I've even seen the more intelligent animals help other animals, both of the same species and different species. Among people, there appears to be an extremely strong correlation between intelligence, knowledge, and moral conduct. If morality can be reasoned, a general intelligence like an ASI would be capable of moral reasoning and could evolve to become more morally sound than any human that has ever lived. General intelligence is not something I fear because it encompasses reasoning ability in all domains, including morality. Narrow intelligence, on the other hand, is something I fear in both machines and in humans.
+
+
+[Home](../../index.md)

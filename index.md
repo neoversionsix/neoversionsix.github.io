@@ -6,8 +6,6 @@
 
 [Human Relationships with Dogs](blogs/humanrelationshipswithdogs/humanrelationshipswithdogs.md)
 
-[The Master Key](blogs/themasterkey/themasterkey.md)
-
 [Crashed](blogs/crashed/crashed.md)
 
 [The Birth of a Word](blogs/thebirthofaword/thebirthofaword.md)

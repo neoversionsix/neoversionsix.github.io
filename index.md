@@ -4,6 +4,10 @@
 <img src="icon.jpg" width="300">
 </p>
 
+[AGI](blogs/agi/agi.md)
+
+[Malfunctioning Minds](blogs/malfunctioningminds/malfunctioningminds.md)
+
 [Human Relationships with Dogs](blogs/humanrelationshipswithdogs/humanrelationshipswithdogs.md)
 
 [Crashed](blogs/crashed/crashed.md)
@@ -18,4 +22,4 @@
 
 [Confidence](blogs/confidence/confidence.md)
 
-[AGI](blogs/agi/agi.md)
+

@@ -1,13 +1,13 @@
 # Malfunctioning Minds
 [Home](../../index.md)
 
-For some time, I have held the belief that the greatest advancement for human well-being would be to recognize and correct malfunctioning minds because every bad decision stems from a malfunctioning mind.
+For some time, I have held the belief that the greatest advancement for human well-being would be to recognize and correct malfunctioning minds.
 
 <p align="center">
 <img src="m.png" width="300">
 </p>
 
- I refer to a state where the mind doesn't work properly or as intended. In the physical realm, malfunctions are caused by defects in design, construction, wear and tear, improper use, or external factors. The severity of these malfunctions can range from minor inconveniences to serious issues. Think of how your car malfunctions, for example.
+I refer to a state where the mind doesn't work properly or as intended. In the physical realm, malfunctions are caused by defects in design, construction, wear and tear, improper use, or external factors. The severity of these malfunctions can range from minor inconveniences to serious issues. Think of how your car malfunctions, for example.
 
 You might think that 'malfunctioning' can't possibly apply to the mind because it’s typically used for physical systems. However, I believe our minds do function as physical systems. Specifically, our brains are the physical systems responsible for our thoughts, feelings, and decisions. Although I am ignoring other parts of the central nervous system for simplicity, the point remains the same: our brains are physical systems that generate our mental experiences. The fact that our thoughts, feelings, and decisions can be traced back to a physical system is a fundamental premise of my argument. This assertion is nothing new; it is standard scientific knowledge, and I haven't found any debate in the scientific community to the contrary. Neuroscientists have used various techniques such as fMRI, EEG, and PET scans to study how specific thoughts, feelings, and emotions correspond to neural activity in the brain. While there is still much to learn about how it works, the link between the brain and experience is undeniable.
 

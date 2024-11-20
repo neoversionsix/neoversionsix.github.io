@@ -4,6 +4,8 @@
 <img src="icon.jpg" width="300">
 </p>
 
+[Are We In Base Level Reality?](blogs/baselevelreality/baselevelreality.md)
+
 [AGI](blogs/agi/agi.md)
 
 [Malfunctioning Minds](blogs/malfunctioningminds/malfunctioningminds.md)

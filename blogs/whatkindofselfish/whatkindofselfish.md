@@ -3,7 +3,7 @@
 Home](../../index.md)
 
 <p align="left">
-<img src="selfish.png" width="400">
+<img src="self.png" width="400">
 </p>
 
 Most of us grow up hearing that selfishness is bad. We’re told to put others first, to be generous, to sacrifice. On the surface, that sounds like the opposite of selfishness. But if you look one layer deeper, something interesting shows up: everything we do, even the noble stuff, is ultimately tied to how it makes us feel. In that sense, pure “selflessness” starts to look like an illusion — what we call selfless is just a particular style of selfishness that takes other people’s wellbeing into account.

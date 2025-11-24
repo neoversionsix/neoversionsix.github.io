@@ -12,6 +12,8 @@
 
 [Human Relationships with Dogs](blogs/humanrelationshipswithdogs/humanrelationshipswithdogs.md)
 
+[What Kind of Selfish](blogs/whatkindofselfish/whatkindofselfish.md)
+
 [Crashed](blogs/crashed/crashed.md)
 
 [The Birth of a Word](blogs/thebirthofaword/thebirthofaword.md)
